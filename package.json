@@ -1,0 +1,5 @@
+{
+    "name": "gs-commander",
+    "version": "1.0.0",
+    "description": "命令行解析器"
+}
